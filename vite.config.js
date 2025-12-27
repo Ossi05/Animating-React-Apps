@@ -7,4 +7,5 @@ export default defineConfig({
   server: {
     port: 80,
   },
+  base: "/Animating-React-Apps/",
 });
